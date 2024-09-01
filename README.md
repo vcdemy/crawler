@@ -10,7 +10,7 @@ selenium的使用，請見我們selenium的教學。
 * [唯客學院粉絲專頁](https://www.facebook.com/vcdemy/)
 * [唯客學院線上課程](https://khpy.teachable.com)
 
-### 投影片及相關連結
+## 投影片及相關連結
 
 * [Web簡介 - 投影片](https://docs.google.com/presentation/d/1UEPMx0G-MYWW2gHZs0Y93L6XwVVg5S5I0QLVsv4A0y4/edit?usp=sharing)
 * [爬蟲簡介 - 投影片](https://docs.google.com/presentation/d/1-ydjrfvmsSnn2COglvybabIp5edGubZ8g8Ahh2xDv9k/edit?usp=sharing)
@@ -69,7 +69,7 @@ pip install beautifulsoup4
 |:--|:--|
 |Chrome DevTools|可以用來檢視本地端跟伺服器端的資料傳輸的開發者工具。|
 
-## 相關連結
+## 其他連結
 
 * [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/)
 * [Beautiful Soup 4.2.0 文档](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html)
