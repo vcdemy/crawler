@@ -10,15 +10,15 @@ selenium的使用，請見我們selenium的教學。
 * [唯客學院粉絲專頁](https://www.facebook.com/vcdemy/)
 * [唯客學院線上課程](https://khpy.teachable.com)
 
-## 課程內容
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vcdemy/crawler/)
-
 ### 投影片及相關連結
 
 * [Web簡介 - 投影片](https://docs.google.com/presentation/d/1UEPMx0G-MYWW2gHZs0Y93L6XwVVg5S5I0QLVsv4A0y4/edit?usp=sharing)
 * [爬蟲簡介 - 投影片](https://docs.google.com/presentation/d/1-ydjrfvmsSnn2COglvybabIp5edGubZ8g8Ahh2xDv9k/edit?usp=sharing)
 * [爬蟲練習網站](https://vcdemy.github.io/web/)
+
+## 課程內容
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vcdemy/crawler/)
 
 * requests 使用簡介
   * 使用 requests 抓取網頁原始檔。
