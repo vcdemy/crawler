@@ -73,3 +73,4 @@ pip install beautifulsoup4
 
 * [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/)
 * [Beautiful Soup 4.2.0 文档](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html)
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools)
